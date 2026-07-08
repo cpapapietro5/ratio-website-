@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Ratiō — Snap a photo. Get your macros. Actually stick with it.</title>
+<meta name="description" content="Ratiō is the AI calorie and macro tracker that reads your plate in seconds — the photo-speed of Cal AI with the accuracy of MacroFactor. Built for people who want to lose weight without the tedious logging." />
+
+<meta property="og:title" content="Ratiō — AI Calorie & Macro Tracking" />
+<meta property="og:description" content="Snap a photo. Get accurate calories and macros in seconds. The tracking app you'll actually stick with." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://ratioapp.com/" />
+<meta property="og:image" content="https://ratioapp.com/assets/img/og-image.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Ratiō" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Ratiō — AI Calorie & Macro Tracking" />
+<meta name="twitter:description" content="Snap a photo. Get accurate calories and macros in seconds. The tracking app you'll actually stick with." />
+<meta name="twitter:image" content="https://ratioapp.com/assets/img/og-image.jpg" />
+
+<meta name="theme-color" content="#f4f1e8" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%232F4B3C'/%3E%3Ccircle cx='32' cy='32' r='19' fill='none' stroke='%23F4F1E8' stroke-width='5'/%3E%3Ccircle cx='32' cy='32' r='19' fill='none' stroke='%23E0A183' stroke-width='5' stroke-dasharray='60 60' stroke-linecap='round' transform='rotate(-90 32 32)'/%3E%3C/svg%3E" />
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="512x512" href="assets/img/icon-512.png" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header class="nav" id="nav">
+  <div class="wrap nav-inner">
+    <a href="/" class="brand">
+      <svg class="brand-mark" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect width="64" height="64" rx="18" fill="#2F4B3C"/>
+        <circle cx="32" cy="32" r="19" fill="none" stroke="#F4F1E8" stroke-width="5" opacity="0.35"/>
+        <circle cx="32" cy="32" r="19" fill="none" stroke="#E0A183" stroke-width="5" stroke-dasharray="119.4" stroke-dashoffset="42" stroke-linecap="round" transform="rotate(-90 32 32)"/>
+      </svg>
+      <span class="brand-name">Rati<span class="o-mac">o</span></span>
+    </a>
+    <nav class="nav-links">
+      <a href="#how-it-works">How it works</a>
+      <a href="#why">Why it works</a>
+      <a href="#compare">Compare</a>
+      <a href="#accuracy">Proof</a>
+      <a href="#faq">FAQ</a>
+    </nav>
+    <div class="nav-cta">
+      <a href="#waitlist" class="btn btn-primary">Join the waitlist</a>
+    </div>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobile-menu">
+      <svg class="icon-menu" width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M2 5h14M2 9h14M2 13h14" stroke="#262521" stroke-width="1.6" stroke-linecap="round"/></svg>
+      <svg class="icon-close" width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M3 3l12 12M15 3L3 15" stroke="#262521" stroke-width="1.6" stroke-linecap="round"/></svg>
+    </button>
+    <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile">
+      <a href="#how-it-works">How it works</a>
+      <a href="#why">Why it works</a>
+      <a href="#compare">Compare</a>
+      <a href="#accuracy">Proof</a>
+      <a href="#faq">FAQ</a>
+      <a href="#waitlist" class="btn btn-primary btn-block">Join the waitlist</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy" data-reveal>
+        <span class="eyebrow"><span class="dot"></span>Now building the waitlist</span>
+        <h1>Lose weight without <span class="underline">logging your life<svg viewBox="0 0 300 12" preserveAspectRatio="none"><path d="M2 9C60 3 240 3 298 9" stroke="#E0A183" stroke-width="5" stroke-linecap="round" fill="none"/></svg></span> away.</h1>
+        <p class="hero-sub">Ratiō reads your plate like a nutritionist would — <strong>snap a photo, get accurate calories and macros in seconds.</strong> The photo-speed of Cal AI, the macro precision of MacroFactor, so tracking finally sticks long enough to actually work.</p>
+
+        <form class="waitlist-form" id="waitlist-form">
+          <input type="email" id="waitlist-email" placeholder="you@email.com" required aria-label="Email address" />
+          <button type="submit" class="btn btn-primary">Get early access</button>
+        </form>
+        <div class="form-success" id="form-success">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="10" fill="#2F4B3C"/><path d="M6 10.5l2.5 2.5L14 7.5" stroke="#F4F1E8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          You're on the list — we'll email you when Ratiō launches.
+        </div>
+        <p class="form-note">Free to join. No spam, just a heads-up when we launch on iOS.</p>
+
+        <div class="hero-proof">
+          <div class="avatar-stack">
+            <span>A</span><span>M</span><span>J</span><span>+</span>
+          </div>
+          <p class="hero-proof-text"><strong>340+ people</strong> already waiting for launch</p>
+        </div>
+      </div>
+
+      <div class="hero-visual" data-reveal>
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+
+        <div class="snap-badge top">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M4 8h2l1.5-2h9L18 8h2a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2v-8a2 2 0 012-2z" stroke="#fff" stroke-width="1.8" stroke-linejoin="round"/><circle cx="12" cy="13" r="3.4" stroke="#fff" stroke-width="1.8"/></svg>
+          Analyzing photo…
+        </div>
+
+        <div class="phone">
+          <div class="phone-notch"></div>
+          <div class="phone-screen">
+            <div class="phone-status">
+              <span>9:41</span>
+              <span>●●●●</span>
+            </div>
+            <div class="phone-body">
+              <div class="phone-app-title">Rati<span class="o-mac">o</span></div>
+              <div class="day-strip">
+                <div class="day"><span>M</span><span class="num">27</span></div>
+                <div class="day"><span>T</span><span class="num">28</span></div>
+                <div class="day active"><span>W</span><span class="num">29</span></div>
+                <div class="day"><span>T</span><span class="num">30</span></div>
+                <div class="day"><span>F</span><span class="num">31</span></div>
+              </div>
+
+              <div class="today-card">
+                <div class="today-card-head">
+                  <span class="label">Today</span>
+                  <span class="value">1,480 / 2,260 cal</span>
+                </div>
+                <div class="progress-track"><div class="progress-fill"></div></div>
+
+                <div class="rings">
+                  <div class="ring">
+                    <svg width="56" height="56" viewBox="0 0 64 64">
+                      <circle cx="32" cy="32" r="26" fill="none" stroke="#e7e2d3" stroke-width="7"/>
+                      <circle cx="32" cy="32" r="26" fill="none" stroke="#7fae87" stroke-width="7" stroke-linecap="round" stroke-dasharray="163.4" stroke-dashoffset="46"/>
+                    </svg>
+                    <span class="ring-label">Protein</span>
+                    <span class="ring-value">129 / 180g</span>
+                  </div>
+                  <div class="ring">
+                    <svg width="56" height="56" viewBox="0 0 64 64">
+                      <circle cx="32" cy="32" r="26" fill="none" stroke="#e7e2d3" stroke-width="7"/>
+                      <circle cx="32" cy="32" r="26" fill="none" stroke="#e0a183" stroke-width="7" stroke-linecap="round" stroke-dasharray="163.4" stroke-dashoffset="74"/>
+                    </svg>
+                    <span class="ring-label">Carbs</span>
+                    <span class="ring-value">134 / 243g</span>
+                  </div>
+                  <div class="ring">
+                    <svg width="56" height="56" viewBox="0 0 64 64">
+                      <circle cx="32" cy="32" r="26" fill="none" stroke="#e7e2d3" stroke-width="7"/>
+                      <circle cx="32" cy="32" r="26" fill="none" stroke="#8faec4" stroke-width="7" stroke-linecap="round" stroke-dasharray="163.4" stroke-dashoffset="98"/>
+                    </svg>
+                    <span class="ring-label">Fat</span>
+                    <span class="ring-value">38 / 63g</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="streak-card">
+                <span>🔥</span> 12 day streak
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="snap-badge bottom">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" fill="#2F4B3C"/><path d="M7.5 12.5l3 3L17 9" stroke="#F4F1E8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          412 cal · logged in 3s
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HOW IT WORKS ============ -->
+  <section id="how-it-works">
+    <div class="wrap">
+      <div class="section-head" data-reveal>
+        <span class="eyebrow"><span class="dot"></span>How it works</span>
+        <h2>Three steps. Ten seconds. Done.</h2>
+        <p>No search bars, no scrolling through barcode databases, no guessing portion sizes. Just point your camera at your food.</p>
+      </div>
+
+      <div class="steps">
+        <div class="step" data-reveal>
+          <div class="step-num">1</div>
+          <div class="step-media">
+            <img src="assets/img/gallery-bowl-white.jpg" alt="A plate of food being photographed for logging" loading="lazy" />
+            <div class="step-overlay"><div class="scan-frame"><span class="c3"></span><span class="c4"></span></div></div>
+          </div>
+          <h3>Snap a photo</h3>
+          <p>Open Ratiō and take a picture of whatever's on your plate — homemade, takeout, or a burger you're not proud of. No prep needed.</p>
+        </div>
+
+        <div class="step" data-reveal>
+          <div class="step-num">2</div>
+          <div class="step-media">
+            <img src="assets/img/gallery-bowl-rainbow.jpg" alt="AI analyzing ingredients and portions" loading="lazy" />
+            <div class="step-overlay">
+              <div class="snap-badge" style="position:static;">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M12 2l1.8 5.2L19 9l-5.2 1.8L12 16l-1.8-5.2L5 9l5.2-1.8L12 2z" fill="#fff"/></svg>
+                Identifying ingredients…
+              </div>
+            </div>
+          </div>
+          <h3>AI does the math</h3>
+          <p>Ratiō identifies each ingredient, estimates portion size from the image, and cross-checks it against a nutrition database built for accuracy — not guesswork.</p>
+        </div>
+
+        <div class="step" data-reveal>
+          <div class="step-num">3</div>
+          <div class="step-media">
+            <img src="assets/img/gallery-chicken.jpg" alt="Accurate calorie and macro results" loading="lazy" />
+            <div class="step-overlay">
+              <div class="result-chip">
+                <span class="cal">438 cal</span>
+                <span class="macros"><span class="p">38p</span><span class="c">24c</span><span class="f">19f</span></span>
+              </div>
+            </div>
+          </div>
+          <h3>Get real numbers</h3>
+          <p>Calories and macros logged automatically — protein, carbs, and fat broken down so you know exactly what's fueling your progress.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ WHY PEOPLE QUIT ============ -->
+  <section id="why">
+    <div class="wrap">
+      <div class="why" data-reveal>
+        <div class="wrap">
+          <div class="why-grid">
+            <div class="why-copy">
+              <span class="eyebrow"><span class="dot"></span>The real reason diets fail</span>
+              <h2>Most people don't quit dieting. They quit logging.</h2>
+              <p>Weight loss isn't hard because of willpower — it's hard because tracking your food usually feels like a part-time job. So people track for four days and stop. Ratiō was built to fix the actual point of failure.</p>
+
+              <div class="pain-list">
+                <div class="pain-item">
+                  <div class="pain-icon">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="#F4F1E8" stroke-width="1.6"/><path d="M12 7v5l3.5 2" stroke="#F4F1E8" stroke-width="1.6" stroke-linecap="round"/></svg>
+                  </div>
+                  <div>
+                    <h4>Too slow</h4>
+                    <p>Searching a food database, scrolling past ten wrong results, and manually weighing ingredients takes 3–5 minutes per meal. Ratiō takes three seconds.</p>
+                  </div>
+                </div>
+                <div class="pain-item">
+                  <div class="pain-icon">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M4 12c2-4 6-6 8-6s6 2 8 6c-2 4-6 6-8 6s-6-2-8-6z" stroke="#F4F1E8" stroke-width="1.6"/><circle cx="12" cy="12" r="2.4" stroke="#F4F1E8" stroke-width="1.6"/></svg>
+                  </div>
+                  <div>
+                    <h4>Too imprecise</h4>
+                    <p>Generic barcode apps guess at homemade meals and restaurant food — the exact meals hardest to track and easiest to underestimate.</p>
+                  </div>
+                </div>
+                <div class="pain-item">
+                  <div class="pain-icon">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M12 3l8 4v5c0 5-3.5 7.5-8 9-4.5-1.5-8-4-8-9V7l8-4z" stroke="#F4F1E8" stroke-width="1.6" stroke-linejoin="round"/></svg>
+                  </div>
+                  <div>
+                    <h4>Too tedious to sustain</h4>
+                    <p>Willpower runs out. A habit that takes ten seconds survives busy weeks, travel, and bad days. One that takes five minutes doesn't.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="why-visual">
+              <img src="assets/img/workout-situps.jpg" alt="Person doing a workout, staying consistent with their fitness routine" loading="lazy" />
+              <div class="stat-float">
+                <div class="stat">
+                  <div class="stat-num">0</div>
+                  <div class="stat-label">food searches or barcode scans needed</div>
+                </div>
+                <div class="stat">
+                  <div class="stat-num">3 sec</div>
+                  <div class="stat-label">average log time with Ratiō</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ COMPARISON ============ -->
+  <section id="compare">
+    <div class="wrap">
+      <div class="section-head" data-reveal>
+        <span class="eyebrow"><span class="dot"></span>Why Ratiō</span>
+        <h2>Speed <em style="font-style:normal; color:var(--green);">and</em> accuracy. Not one or the other.</h2>
+        <p>Photo-logging apps are fast but rough around the edges. Precision apps are accurate but slow. Ratiō was built to be both.</p>
+      </div>
+
+      <div class="compare-table-wrap" data-reveal>
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th></th>
+              <th class="highlight">Rati<span class="o-mac">o</span></th>
+              <th>Photo-only apps</th>
+              <th>Manual macro apps</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Log a meal from a photo</td>
+              <td class="highlight-col"><span class="compare-plate">✓ 3 sec</span></td>
+              <td>✓ Fast</td>
+              <td><span class="icon-no">✕ Manual entry</span></td>
+            </tr>
+            <tr>
+              <td>Accurate macro breakdown</td>
+              <td class="highlight-col"><span class="compare-plate">✓ Precise</span></td>
+              <td><span class="icon-no">Often rough</span></td>
+              <td>✓ Precise</td>
+            </tr>
+            <tr>
+              <td>Works on homemade meals</td>
+              <td class="highlight-col"><span class="compare-plate">✓</span></td>
+              <td><span class="icon-no">Hit or miss</span></td>
+              <td>✓ (manually)</td>
+            </tr>
+            <tr>
+              <td>Adapts targets as you progress</td>
+              <td class="highlight-col"><span class="compare-plate">✓</span></td>
+              <td><span class="icon-no">✕</span></td>
+              <td>✓</td>
+            </tr>
+            <tr>
+              <td>Time per meal logged</td>
+              <td class="highlight-col"><span class="compare-plate">~3 seconds</span></td>
+              <td>~15 seconds</td>
+              <td>3–5 minutes</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============ ACCURACY DEMO ============ -->
+  <section id="accuracy">
+    <div class="wrap">
+      <div class="section-head" data-reveal>
+        <span class="eyebrow"><span class="dot"></span>Proof, not promises</span>
+        <h2>This is what Ratiō sees in three seconds.</h2>
+        <p>No cherry-picked salads. Here's the actual output format on three real meals — the exact kind of food generic apps guess wrong.</p>
+      </div>
+      <div class="demo-strip" data-reveal>
+        <div class="demo-card">
+          <div class="demo-media">
+            <img src="assets/img/gallery-bowl-blue.jpg" alt="Loaded grain bowl with egg and avocado analyzed by Ratiō" loading="lazy" />
+          </div>
+          <div class="demo-result">
+            <div class="demo-result-head"><span class="demo-cal">406 cal</span><span class="demo-tag">Loaded grain bowl</span></div>
+            <div class="demo-macros">
+              <span class="p">22g protein</span>
+              <span class="c">35g carbs</span>
+              <span class="f">21g fat</span>
+            </div>
+          </div>
+        </div>
+        <div class="demo-card">
+          <div class="demo-media">
+            <img src="assets/img/gallery-burger.jpg" alt="Cheeseburger analyzed by Ratiō" loading="lazy" />
+          </div>
+          <div class="demo-result">
+            <div class="demo-result-head"><span class="demo-cal">742 cal</span><span class="demo-tag">Double cheeseburger</span></div>
+            <div class="demo-macros">
+              <span class="p">41g protein</span>
+              <span class="c">38g carbs</span>
+              <span class="f">46g fat</span>
+            </div>
+          </div>
+        </div>
+        <div class="demo-card">
+          <div class="demo-media">
+            <img src="assets/img/gallery-smoothie-bowl.jpg" alt="Smoothie bowl analyzed by Ratiō" loading="lazy" />
+          </div>
+          <div class="demo-result">
+            <div class="demo-result-head"><span class="demo-cal">312 cal</span><span class="demo-tag">Smoothie bowl</span></div>
+            <div class="demo-macros">
+              <span class="p">9g protein</span>
+              <span class="c">58g carbs</span>
+              <span class="f">6g fat</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <p class="demo-footnote">Example outputs shown in Ratiō's actual result format. Estimates refine as our nutrition database grows during beta.</p>
+    </div>
+  </section>
+
+  <!-- ============ FAQ ============ -->
+  <section id="faq">
+    <div class="wrap">
+      <div class="section-head" data-reveal>
+        <span class="eyebrow"><span class="dot"></span>FAQ</span>
+        <h2>Good to know</h2>
+      </div>
+      <div class="quote-strip" data-reveal>
+        <div class="quote-card">
+          <h3 style="font-size:16px; font-family:'Fraunces',serif; margin-bottom:8px;">How accurate is the AI, really?</h3>
+          <p class="body" style="margin-bottom:0;">Ratiō is trained specifically for portion and ingredient estimation, then cross-referenced against a verified nutrition database — so you get restaurant-and-homemade-meal accuracy, not a rough guess.</p>
+        </div>
+        <div class="quote-card">
+          <h3 style="font-size:16px; font-family:'Fraunces',serif; margin-bottom:8px;">When does Rati<span class="o-mac">o</span> launch?</h3>
+          <p class="body" style="margin-bottom:0;">We're finishing iOS testing now. Waitlist members get early access before the public App Store launch, plus a founding-member discount.</p>
+        </div>
+        <div class="quote-card">
+          <h3 style="font-size:16px; font-family:'Fraunces',serif; margin-bottom:8px;">Do I need to weigh my food?</h3>
+          <p class="body" style="margin-bottom:0;">No. Ratiō estimates portions visually. You can always fine-tune a result, but most people never need to.</p>
+        </div>
+        <div class="quote-card">
+          <h3 style="font-size:16px; font-family:'Fraunces',serif; margin-bottom:8px;">Is my data private?</h3>
+          <p class="body" style="margin-bottom:0;">Yes — photos are processed to extract nutrition data and are not sold or shared. See our <a href="privacy.html" style="color:var(--green); font-weight:600;">Privacy Policy</a> for full details.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FINAL CTA ============ -->
+  <section id="waitlist">
+    <div class="wrap">
+      <div class="final-cta" data-reveal>
+        <span class="eyebrow"><span class="dot"></span>Join 340+ on the waitlist</span>
+        <h2>Start losing weight without losing your patience.</h2>
+        <p>Be first in line when Ratiō launches on iOS. No spam — just one email when it's ready.</p>
+        <form class="waitlist-form" id="waitlist-form-2">
+          <input type="email" id="waitlist-email-2" placeholder="you@email.com" required aria-label="Email address" />
+          <button type="submit" class="btn btn-primary">Get early access</button>
+        </form>
+        <div class="form-success" id="form-success-2">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="10" fill="#2F4B3C"/><path d="M6 10.5l2.5 2.5L14 7.5" stroke="#F4F1E8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          You're on the list — we'll email you when Ratiō launches.
+        </div>
+        <span class="form-note">Free to join. Unsubscribe anytime.</span>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="/" class="brand">
+          <svg class="brand-mark" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="64" height="64" rx="18" fill="#2F4B3C"/>
+            <circle cx="32" cy="32" r="19" fill="none" stroke="#F4F1E8" stroke-width="5" opacity="0.35"/>
+            <circle cx="32" cy="32" r="19" fill="none" stroke="#E0A183" stroke-width="5" stroke-dasharray="119.4" stroke-dashoffset="42" stroke-linecap="round" transform="rotate(-90 32 32)"/>
+          </svg>
+          <span class="brand-name">Rati<span class="o-mac">o</span></span>
+        </a>
+        <p>The AI macro tracker built for people who want to lose weight without logging their life away.</p>
+        <div class="footer-social">
+          <a href="#" aria-label="Instagram"><svg width="16" height="16" viewBox="0 0 24 24" fill="none"><rect x="3" y="3" width="18" height="18" rx="5" stroke="#262521" stroke-width="1.6"/><circle cx="12" cy="12" r="4" stroke="#262521" stroke-width="1.6"/><circle cx="17.2" cy="6.8" r="1" fill="#262521"/></svg></a>
+          <a href="#" aria-label="TikTok"><svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M14 3v10.5a3.5 3.5 0 11-3-3.46" stroke="#262521" stroke-width="1.6" stroke-linecap="round"/><path d="M14 3c.5 2.5 2 4 5 4.2" stroke="#262521" stroke-width="1.6" stroke-linecap="round"/></svg></a>
+          <a href="#" aria-label="X"><svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M4 4l16 16M20 4L4 20" stroke="#262521" stroke-width="1.6" stroke-linecap="round"/></svg></a>
+        </div>
+      </div>
+      <div class="footer-cols">
+        <div class="footer-col">
+          <h5>Product</h5>
+          <ul>
+            <li><a href="#how-it-works">How it works</a></li>
+            <li><a href="#compare">Compare</a></li>
+            <li><a href="#accuracy">Proof</a></li>
+            <li><a href="#faq">FAQ</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h5>Company</h5>
+          <ul>
+            <li><a href="mailto:hello@ratioapp.com">Contact</a></li>
+            <li><a href="#waitlist">Waitlist</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h5>Legal</h5>
+          <ul>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+            <li><a href="privacy.html#data-deletion">Data Deletion</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Ratiō. All rights reserved.</span>
+      <span>Made for people starting over, not starting a competition.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
