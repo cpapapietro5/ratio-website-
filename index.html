@@ -77,8 +77,10 @@
         <h1>Lose weight without <span class="underline">logging your life<svg viewBox="0 0 300 12" preserveAspectRatio="none"><path d="M2 9C60 3 240 3 298 9" stroke="#E0A183" stroke-width="5" stroke-linecap="round" fill="none"/></svg></span> away.</h1>
         <p class="hero-sub">Ratiō reads your plate like a nutritionist would — <strong>snap a photo, get accurate calories and macros in seconds.</strong> The photo-speed of Cal AI, the macro precision of MacroFactor, so tracking finally sticks long enough to actually work.</p>
 
-        <form class="waitlist-form" id="waitlist-form">
-          <input type="email" id="waitlist-email" placeholder="you@email.com" required aria-label="Email address" />
+        <form class="waitlist-form" id="waitlist-form" name="waitlist" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="waitlist" />
+          <p class="hp-field"><label>Leave this field blank: <input name="bot-field" tabindex="-1" autocomplete="off" /></label></p>
+          <input type="email" name="email" id="waitlist-email" placeholder="you@email.com" required aria-label="Email address" />
           <button type="submit" class="btn btn-primary">Get early access</button>
         </form>
         <div class="form-success" id="form-success">
@@ -430,8 +432,10 @@
         <span class="eyebrow"><span class="dot"></span>Join 340+ on the waitlist</span>
         <h2>Start losing weight without losing your patience.</h2>
         <p>Be first in line when Ratiō launches on iOS. No spam — just one email when it's ready.</p>
-        <form class="waitlist-form" id="waitlist-form-2">
-          <input type="email" id="waitlist-email-2" placeholder="you@email.com" required aria-label="Email address" />
+        <form class="waitlist-form" id="waitlist-form-2" name="waitlist" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="waitlist" />
+          <p class="hp-field"><label>Leave this field blank: <input name="bot-field" tabindex="-1" autocomplete="off" /></label></p>
+          <input type="email" name="email" id="waitlist-email-2" placeholder="you@email.com" required aria-label="Email address" />
           <button type="submit" class="btn btn-primary">Get early access</button>
         </form>
         <div class="form-success" id="form-success-2">
