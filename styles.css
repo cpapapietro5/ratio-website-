@@ -763,9 +763,10 @@ footer { padding: 64px 0 32px; }
   .legal-toc { position: static; }
 }
 
-@media (max-width: 720px) {
-  .snap-badge.top { left: 4px; top: 24px; font-size: 12px; padding: 8px 12px; }
-  .snap-badge.bottom { right: 4px; bottom: 48px; font-size: 12px; padding: 8px 12px; }
+/* Nav switches to the hamburger menu earlier than the general mobile
+   breakpoint below — with 7 links plus the logo and CTA button, the
+   full desktop nav starts wrapping to two lines around ~860px. */
+@media (max-width: 900px) {
   .nav-links { display: none; }
   .nav-cta { display: none; }
   .nav-toggle {
@@ -775,6 +776,11 @@ footer { padding: 64px 0 32px; }
     border: 1px solid var(--line);
     background: var(--card);
   }
+}
+
+@media (max-width: 720px) {
+  .snap-badge.top { left: 4px; top: 24px; font-size: 12px; padding: 8px 12px; }
+  .snap-badge.bottom { right: 4px; bottom: 48px; font-size: 12px; padding: 8px 12px; }
   section { padding: 64px 0; }
   .why { border-radius: 28px; margin: 0 12px; padding: 56px 0; }
   .final-cta { border-radius: 28px; margin: 0 12px; padding: 56px 20px; }
