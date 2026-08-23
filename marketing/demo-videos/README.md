@@ -21,7 +21,17 @@ bowl, then turns the phone back showing the Meal Analysis result
 
 https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260821_025051_53f81f20-5734-4efb-9128-524fcd89ae0b.mp4
 
-Both videos are also saved in the Higgsfield account library (app.higgsfield.ai).
+**Video 3 — Restaurant scan: steak at night (5s, 1440×2560)**
+Overhead shot of a restaurant table at night: plated steak with grill marks,
+golden onion rings and charred broccolini, wine glass and silverware just in
+frame, candle glow. A hand holds an iPhone flat above the plate showing the
+real Ratiō capture screen (logo, tip banner, framing brackets, shutter — with
+the plate live in the viewfinder), then pulls away to reveal the dish.
+Built from the actual capture-screen screenshot as the UI reference.
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260823_040954_d23b960d-81c7-4537-bc43-143f44efa5b5.mp4
+
+All videos are also saved in the Higgsfield account library (app.higgsfield.ai).
 
 ## How the app UI was kept real
 
