@@ -58,6 +58,29 @@ Water 0 / 100 oz.
    half of the frame, gym bokeh behind.
    https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_015233_a61485a1-8f9d-49c2-a238-d43ff5a307e7.png
 
+### Social-ready exports (Instagram / TikTok)
+
+The five photos were upscaled to 2160×3856 (Bytedance 2K upscale) and exported
+ready to post. Download everything as one zip:
+
+https://d2ol7oe51mr4n9.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/90a69ee8-4ca1-4f44-ae20-379893068142.zip
+
+Inside `ratio-workout-social/`:
+
+- `tiktok-reels-stories-1080x1920/` — 9:16 full-bleed for TikTok (video or
+  photo mode), Reels covers, and Instagram/Facebook Stories.
+- `instagram-feed-4x5-1080x1350/` — portrait 4:5, the tallest format the
+  Instagram feed allows; use for feed posts and carousels.
+- `masters-2k/` — the 2160×3856 upscaled masters (highest quality).
+
+2K upscaled masters individually:
+
+1. https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_021631_45ddf4b9-2b2a-4732-8b5d-7ca4bf22e680.png
+2. https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_021634_de16f100-a7b6-4a30-875c-29f80fab7937.png
+3. https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_021636_85078f5a-b3aa-41df-b91a-1741d7d2ff84.png
+4. https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_021639_a6801a8f-7e15-41eb-910a-2434c89f358d.png
+5. https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_021756_225f5cd1-1044-4942-8e85-745ffe89bcda.png
+
 All videos and photos are also saved in the Higgsfield account library (app.higgsfield.ai).
 
 ## How the app UI was kept real
