@@ -81,6 +81,34 @@ Inside `ratio-workout-social/`:
 4. https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_021639_a6801a8f-7e15-41eb-910a-2434c89f358d.png
 5. https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_021756_225f5cd1-1044-4942-8e85-745ffe89bcda.png
 
+## Photo set 2 — ten fit guys post-workout (4K GPT Image 2)
+
+Ten photorealistic candid photos (2160×3840 native 4K, 9:16), each a different
+fit guy checking Ratiō right after training. Same locked screen reference as
+set 1 (real Home screenshot: 969 / 3150 cal, 33g P / 102g C / 48g F,
+3 day streak, Monday 24 selected).
+
+1. **Squat rack** — muscular guy in a tank beside a loaded bar, chalk on his hands.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_3c27bd44-3ee1-4da9-8735-85c28cd300ec.png
+2. **Boxing gym** — hand wraps on, sitting on the ring apron, heavy bags behind.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050549_0163b6a7-d31e-47ea-a903-0c06803a801e.png
+3. **Calisthenics park** — shirtless, shredded, under the pull-up bars at sunrise.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_f92864f8-5c5f-4423-8309-08c75eac0501.png
+4. **Loft gym window** — broad-shouldered guy on a plyo box in soft daylight.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_d3124e60-6a00-4f0c-bf92-098865353bf4.png
+5. **City stairs** — runner on concrete steps, compression shirt dark with sweat.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_5e9db0b5-6700-4621-b4b5-0940df0f04cc.png
+6. **Kitchen after the gym** — lifting straps still on, protein shaker on the counter.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_7f8b6b20-c80e-4f4d-82f9-fd1fd7ea8725.png
+7. **Cable machines** — lean guy between the towers, one hand still on the handle.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_86efc4f2-a88e-4b0f-be09-310653bb4d2a.png
+8. **Stretching mat** — cross-legged cooldown after HIIT, foam roller beside him.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_e6dfc1ab-fc99-459d-a7b7-60301b4a657e.png
+9. **Turf and sled** — kneeling by the sled in a backwards cap, chest heaving.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_4c277714-9fd9-40d2-8d33-e3abb9704ca4.png
+10. **Parking lot golden hour** — leaning on his car with a duffel, sun flare.
+    https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_caaa20f0-8b81-4007-9bd9-33710303c661.png
+
 All videos and photos are also saved in the Higgsfield account library (app.higgsfield.ai).
 
 ## How the app UI was kept real
