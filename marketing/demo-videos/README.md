@@ -109,6 +109,36 @@ set 1 (real Home screenshot: 969 / 3150 cal, 33g P / 102g C / 48g F,
 10. **Parking lot golden hour** — leaning on his car with a duffel, sun flare.
     https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260825_050548_caaa20f0-8b81-4007-9bd9-33710303c661.png
 
+## Photo set 3 — following the Meal Plans (5 images, 4K, 4:5)
+
+Five photorealistic photos (4K GPT Image 2) of people picking and following a
+Ratiō meal plan, each phone showing the real Meal Plans screen from the actual
+app screenshots (Mediterranean 38/17/45, Carnivore 70/30/0, Ketogenic 70/25/5).
+Generated at 3:4 (2480×3312) and cropped to exact 4:5 (2480×3100) for the
+Instagram feed and TikTok photo mode.
+
+Posting-ready pack (4:5 at full 4K + safe 1080×1350 versions):
+
+https://d2ol7oe51mr4n9.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/54d29d59-fcc8-4da5-accd-22cd3a6b907e.zip
+
+Full-frame 3:4 masters:
+
+1. **Mediterranean — kitchen** — woman with olive oil, tomatoes, salmon and
+   chickpeas just unpacked, reading the plan before cooking.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_143657_c3834240-105d-48e0-92c8-67a3b3bf58b6.png
+2. **Carnivore — steaks** — guy at his kitchen island with ribeyes on butcher
+   paper and a cast-iron skillet, reading the Carnivore plan.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_143657_c93076d5-36d4-4c49-9979-1f5c2fa64f1e.png
+3. **Ketogenic — breakfast** — avocados, eggs and bacon mid-cook, checking the
+   Keto plan with the spatula resting in the pan.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_143657_a8d57c9a-87eb-4796-b57d-dfe6243c099a.png
+4. **Mediterranean — grocery aisle** — basket of vegetables and olive oil,
+   deciding what to buy from the plan's Eat list.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_143657_f1cb3c7a-64db-4781-b145-6778138648c1.png
+5. **Ketogenic — meal prep** — woman portioning chicken, greens, eggs and
+   avocado into containers while following the Keto plan.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_143657_9a71c763-52b2-4cbe-ab82-b59b92318985.png
+
 All videos and photos are also saved in the Higgsfield account library (app.higgsfield.ai).
 
 ## How the app UI was kept real
