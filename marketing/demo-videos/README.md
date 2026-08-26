@@ -139,6 +139,34 @@ Full-frame 3:4 masters:
    avocado into containers while following the Keto plan.
    https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_143657_9a71c763-52b2-4cbe-ab82-b59b92318985.png
 
+## Photo set 4 — diet plates (5 images, 4K, 4:5)
+
+Five editorial food-plate photos matching the meal plans — styled,
+magazine-quality, no text or hands. Generated at 3:4 4K (2480×3312), cropped
+to 4:5 (2480×3100) for the Instagram feed and TikTok photo mode.
+
+Posting-ready pack (4:5 at full 4K + safe 1080×1350 versions):
+
+https://d2ol7oe51mr4n9.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/67365e7c-143c-45ac-9176-956ec865993a.zip
+
+Full-frame 3:4 masters:
+
+1. **Mediterranean — salmon plate** — grilled salmon on herbed quinoa, charred
+   lemon, blistered tomatoes, feta and olive-oil swirl, bright window light.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_151645_9960b6f4-d60b-4911-ab7d-b7c686ec46bb.png
+2. **Mediterranean — mezze flat lay** — hummus with olive-oil pool, halloumi,
+   tabbouleh, charred pita and olives on white marble, overhead.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_151343_89187420-8898-477b-9c51-e899b96edc81.png
+3. **Keto — ribeye plate** — sliced medium-rare ribeye with herb butter,
+   asparagus, avocado and mushrooms, moody slate and low-key light.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_151343_8aeea37d-1de7-45df-a458-ab1187a846e5.png
+4. **Keto — breakfast board** — jammy eggs, avocado, smoked salmon, bacon and
+   cheddar on oak in morning sun.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_151343_5ffa51e6-bda8-4816-b4a4-087c97565710.png
+5. **Carnivore — feast platter** — smoked brisket, lamb chops, bone marrow and
+   soft-boiled eggs on dark wood over butcher paper, rustic side light.
+   https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_151343_3f7fe102-0e4f-4b69-b93c-3cea7fdefa67.png
+
 All videos and photos are also saved in the Higgsfield account library (app.higgsfield.ai).
 
 ## How the app UI was kept real
