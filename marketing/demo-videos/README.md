@@ -167,6 +167,27 @@ Full-frame 3:4 masters:
    soft-boiled eggs on dark wood over butcher paper, rustic side light.
    https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260826_151343_3f7fe102-0e4f-4b69-b93c-3cea7fdefa67.png
 
+## Videos 4 & 5 — kitchen snap-and-analyze (2 × 6s, 1440×2560)
+
+Two-part kitchen demo built from the real Home, Capture and Meal Analysis
+screenshots (Saturday 29, 0/3150 cal, 7 day streak; 1125-cal steak dinner
+analysis). Same man, kitchen, and steak plate across both clips — the plate
+matches the analysis breakdown (filet, herb butter, asparagus, mushrooms,
+avocado, sparkling water). Keyframes composited with Nano Banana Pro,
+animated with MiniMax H3; they cut together into one 12s clip.
+
+**Video 4 — open app → aim at plate:** he checks the Ratiō home screen,
+taps the camera, and holds the phone flat over the steak plate with the
+capture UI framing it.
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260831_212819_53302968-e209-485f-88be-b4307967c6ff.mp4
+
+**Video 5 — shutter → AI result:** he snaps the photo, the AI analyzes it,
+and he turns the phone to reveal the Meal Analysis screen (1125 calories,
+67g P / 23g C / 87g F) with a satisfied nod.
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3GhvJ1fNuHD75nzEcE0WD99Cjcl/hf_20260831_212819_810b674c-cd5f-4eeb-86ca-b9cefb7c88f4.mp4
+
 All videos and photos are also saved in the Higgsfield account library (app.higgsfield.ai).
 
 ## How the app UI was kept real
